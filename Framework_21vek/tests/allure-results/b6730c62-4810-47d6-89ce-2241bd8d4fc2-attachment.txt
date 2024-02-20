@@ -1,0 +1,21 @@
+Error handling cookies: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="modal-cookie"]/div"}
+  (Session info: chrome=121.0.6167.184); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x0000000100ec2814 chromedriver + 4040724
+1   chromedriver                        0x0000000100ebaa18 chromedriver + 4008472
+2   chromedriver                        0x0000000100b2d870 chromedriver + 284784
+3   chromedriver                        0x0000000100b71080 chromedriver + 561280
+4   chromedriver                        0x0000000100bab048 chromedriver + 798792
+5   chromedriver                        0x0000000100b6574c chromedriver + 513868
+6   chromedriver                        0x0000000100b66044 chromedriver + 516164
+7   chromedriver                        0x0000000100e87a3c chromedriver + 3799612
+8   chromedriver                        0x0000000100e8bf1c chromedriver + 3817244
+9   chromedriver                        0x0000000100e70298 chromedriver + 3703448
+10  chromedriver                        0x0000000100e8ca64 chromedriver + 3820132
+11  chromedriver                        0x0000000100e63054 chromedriver + 3649620
+12  chromedriver                        0x0000000100ea9e74 chromedriver + 3939956
+13  chromedriver                        0x0000000100ea9fec chromedriver + 3940332
+14  chromedriver                        0x0000000100eba698 chromedriver + 4007576
+15  libsystem_pthread.dylib             0x000000018baa6034 _pthread_start + 136
+16  libsystem_pthread.dylib             0x000000018baa0e3c thread_start + 8
+
